@@ -13,7 +13,7 @@ class Person {
         this.key = key
     }
 
-    getKey() {
+    getKey(): Key {
         return this.key
     }
 }
